@@ -5,5 +5,5 @@ function destructivelyAppendKitten(a, b){
   a.push(b);
   return a;
 }
-function 
+function destructivelyPrependKitten()
 // Add your functions and code here
