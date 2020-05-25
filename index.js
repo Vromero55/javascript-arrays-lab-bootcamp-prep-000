@@ -27,4 +27,5 @@ function appendKitten(a, b){
   var newKittens=[...a,b];
   return newKittens;
 }
+function prependKitten()
 // Add your functions and code here
