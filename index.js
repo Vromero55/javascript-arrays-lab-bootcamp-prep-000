@@ -25,6 +25,6 @@ function appendKitten(a, b){
   a=kittens;
   
   var newKittens=[...a,b];
-  return a;
+  return newKittens;
 }
 // Add your functions and code here
