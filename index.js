@@ -4,5 +4,5 @@ function destructivelyAppendKitten(a,b){
   return a;
 }
 destructivelyAppendKitten(kittens, "Ralph");
-//var kittens = ["Milo", "Otis", "Garfield"];
+var kittens = ["Milo", "Otis", "Garfield"];
 // Add your functions and code here
