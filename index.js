@@ -27,5 +27,10 @@ function appendKitten(a, b){
   var newKittens=[...a,b];
   return newKittens;
 }
-function prependKitten()
+function prependKitten(a,b){
+  a=kittens;
+  b="Broom";
+  var newKittens=[b,...a];
+  return newKittens;
+}
 // Add your functions and code here
