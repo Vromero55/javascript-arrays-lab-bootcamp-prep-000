@@ -40,7 +40,7 @@ function removeLastKitten(a){
 }
 function removeFirstKitten(a){
   a=kittens;
-  a=a.slice();
+  a=a.slice(1);
   return a;
 }
 // Add your functions and code here
