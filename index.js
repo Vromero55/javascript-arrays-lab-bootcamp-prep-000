@@ -21,5 +21,5 @@ function destructivelyRemoveFirstKitten(a){
   a.shift();
   return a;
 }
-
+function appendKitten()
 // Add your functions and code here
