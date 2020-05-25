@@ -8,6 +8,7 @@ function destructivelyAppendKitten(a, b){
 function destructivelyPrependKitten(a, b){
   a=kittnes;
   b="Jr";
-  
+  a.unshift(b);
+  return a;
 }
 // Add your functions and code here
