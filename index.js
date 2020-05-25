@@ -24,7 +24,7 @@ function destructivelyRemoveFirstKitten(a){
 function appendKitten(a, b){
   a=kittens;
   b="Broom";
-  var newKittens=[b,...a];
+  var newKittens=[...a,b];
   return a;
 }
 // Add your functions and code here
