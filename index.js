@@ -3,5 +3,5 @@ function destructivelyAppendKitten(a, b){
   a.push(b);
   return a;
 }
-destructivelyAppendKitten(kiteens, "Ralph");
+destructivelyAppendKitten(kittens, "Ralph");
 // Add your functions and code here
