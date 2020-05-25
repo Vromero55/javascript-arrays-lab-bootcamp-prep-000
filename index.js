@@ -5,5 +5,9 @@ function destructivelyAppendKitten(a, b){
   a.push(b);
   return a;
 }
-function destructivelyPrependKitten()
+function destructivelyPrependKitten(a, b){
+  a=kittnes;
+  b="Jr";
+  
+}
 // Add your functions and code here
