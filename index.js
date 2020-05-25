@@ -23,7 +23,7 @@ function destructivelyRemoveFirstKitten(a){
 }
 function appendKitten(a, b){
   a=kittens;
-  b="fdg"
+  b="fdg";
   var newKittens=[...a,b];
   return a;
 }
