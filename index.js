@@ -16,4 +16,5 @@ function destructivelyRemoveLastKitten(a){
   a.pop();
   return a;
 }
+function destructivelyRemoveFirstKitten()
 // Add your functions and code here
