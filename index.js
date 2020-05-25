@@ -11,5 +11,8 @@ function destructivelyPrependKitten(a, b){
   a.unshift(b);
   return a;
 }
-functions destructivelyRemoveLastKitten()
+function destructivelyRemoveLastKitten(a){
+  a=kittens;
+  
+}
 // Add your functions and code here
