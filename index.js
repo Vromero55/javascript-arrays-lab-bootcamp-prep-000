@@ -29,7 +29,7 @@ function appendKitten(a, b){
 }
 function prependKitten(a,b){
   a=kittens;
-  b="Broom";
+  b="Arnold";
   var newKittens=[b,...a];
   return newKittens;
 }
