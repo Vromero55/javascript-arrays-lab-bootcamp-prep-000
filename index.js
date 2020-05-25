@@ -13,6 +13,7 @@ function destructivelyPrependKitten(a, b){
 }
 function destructivelyRemoveLastKitten(a){
   a=kittens;
-  
+  a.pop();
+  return a;
 }
 // Add your functions and code here
